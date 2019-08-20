@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "practical-ai-250414"
+  },
+  "targets": {
+    "practical-ai-250414": {
+      "hosting": {
+        "practical-ai": [
+          "practical-ai"
+        ]
+      }
+    }
+  }
+}
